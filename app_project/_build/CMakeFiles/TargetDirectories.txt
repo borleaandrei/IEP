@@ -1,0 +1,7 @@
+/home/borlea_popovici/Desktop/IEP/app_project/_build/CMakeFiles/install/strip.dir
+/home/borlea_popovici/Desktop/IEP/app_project/_build/CMakeFiles/edit_cache.dir
+/home/borlea_popovici/Desktop/IEP/app_project/_build/CMakeFiles/myapp.dir
+/home/borlea_popovici/Desktop/IEP/app_project/_build/CMakeFiles/rebuild_cache.dir
+/home/borlea_popovici/Desktop/IEP/app_project/_build/CMakeFiles/list_install_components.dir
+/home/borlea_popovici/Desktop/IEP/app_project/_build/CMakeFiles/install/local.dir
+/home/borlea_popovici/Desktop/IEP/app_project/_build/CMakeFiles/install.dir
