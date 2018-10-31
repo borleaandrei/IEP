@@ -1,0 +1,6 @@
+/home/borlea_popovici/Desktop/IEP/app_folder/testl/CMakeFiles/rebuild_cache.dir
+/home/borlea_popovici/Desktop/IEP/app_folder/testl/CMakeFiles/myapp.dir
+/home/borlea_popovici/Desktop/IEP/app_folder/testl/CMakeFiles/edit_cache.dir
+/home/borlea_popovici/Desktop/IEP/app_folder/testl/testl/CMakeFiles/rebuild_cache.dir
+/home/borlea_popovici/Desktop/IEP/app_folder/testl/testl/CMakeFiles/testl.dir
+/home/borlea_popovici/Desktop/IEP/app_folder/testl/testl/CMakeFiles/edit_cache.dir

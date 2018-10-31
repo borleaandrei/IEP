@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/borlea_popovici/Desktop/IEP/app_folder/testl/testl.cpp
+testl.h
+/home/borlea_popovici/Desktop/IEP/app_folder/testl/testl.h
+stdio.h
+-
+
+/home/borlea_popovici/Desktop/IEP/app_folder/testl/testl.h
+
